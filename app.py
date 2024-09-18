@@ -1,3 +1,4 @@
 a=1
 b=2
-print ("Sum =",a+b)
+c=(a+b)
+print ("Sum =",c)
